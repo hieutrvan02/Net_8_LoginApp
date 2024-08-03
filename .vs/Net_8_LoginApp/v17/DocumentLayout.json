@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\controllers\\superheroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:controllers\\superheroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\mappers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:mappers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\dtos\\superheroesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:dtos\\superheroesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\repositories\\impl\\superherorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:repositories\\impl\\superherorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\repositories\\isuperherorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:repositories\\isuperherorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\models\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:models\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\migrations\\20240802024641_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:migrations\\20240802024641_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|d:\\workspace\\c# project\\net_8_loginapp\\migrations\\20240802080214_addsuperheroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAAA91E-B563-493A-9F45-E79882934254}|Net_8_LoginApp.csproj|solutionrelative:migrations\\20240802080214_addsuperheroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Mappers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Mappers\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Mappers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Mappers\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:44:50.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuperHeroesController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Controllers\\SuperHeroesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SuperHeroesController.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Controllers\\SuperHeroesController.cs",
+              "RelativeToolTip": "Controllers\\SuperHeroesController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:08:06.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:43:59.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuperHeroesDTO.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\DTOs\\SuperHeroesDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\SuperHeroesDTO.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\DTOs\\SuperHeroesDTO.cs",
+              "RelativeToolTip": "DTOs\\SuperHeroesDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:25:37.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuperHeroRepository.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Repositories\\Impl\\SuperHeroRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Impl\\SuperHeroRepository.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Repositories\\Impl\\SuperHeroRepository.cs",
+              "RelativeToolTip": "Repositories\\Impl\\SuperHeroRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:33:01.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISuperHeroRepository.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Repositories\\ISuperHeroRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ISuperHeroRepository.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Repositories\\ISuperHeroRepository.cs",
+              "RelativeToolTip": "Repositories\\ISuperHeroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:31:40.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:53:51.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA8wA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T01:59:14.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T04:29:51.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuperHero.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Models\\SuperHero.cs",
+              "RelativeDocumentMoniker": "Models\\SuperHero.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Models\\SuperHero.cs",
+              "RelativeToolTip": "Models\\SuperHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:57:44.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:45:21.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240802080214_addSuperHeroes.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Migrations\\20240802080214_addSuperHeroes.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240802080214_addSuperHeroes.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Migrations\\20240802080214_addSuperHeroes.cs",
+              "RelativeToolTip": "Migrations\\20240802080214_addSuperHeroes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:02:14.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Models\\LoginDTO.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "Models\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:07:28.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\MyDbContext.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Models\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:33:40.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Models\\UserDTO.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Models\\UserDTO.cs",
+              "RelativeToolTip": "Models\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:03:41.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:31:28.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240802024641_initialmigration.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Migrations\\20240802024641_initialmigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240802024641_initialmigration.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Migrations\\20240802024641_initialmigration.cs",
+              "RelativeToolTip": "Migrations\\20240802024641_initialmigration.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:46:41.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MyDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\WorkSpace\\C# Project\\Net_8_LoginApp\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MyDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:46:58.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
